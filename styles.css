@@ -67,6 +67,21 @@ body {
     background-color: var(--soft-white);
 }
 
+header {
+    background-color: var(--midnight-blue);
+    color: var(--soft-white);
+}
+
+nav {
+    background-color: var(--champagne-gold);
+    color: var(--midnight-blue);
+}
+
+footer {
+    background-color: var(--midnight-blue);
+    color: var(--soft-white);
+}
+
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
