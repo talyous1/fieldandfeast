@@ -62,7 +62,9 @@ table {
 }
 
 /* GLOBAL STYLES (mobile first/small) */
-font-family: 'Playfair Display';
+body {
+    font-family: 'Playfair Display';
+}
 
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
