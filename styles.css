@@ -64,6 +64,7 @@ table {
 /* GLOBAL STYLES (mobile first/small) */
 body {
     font-family: 'Playfair Display';
+    background-color: var(--soft-white);
 }
 
 /* MEDIA QUERY (medium) */
