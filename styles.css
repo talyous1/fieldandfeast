@@ -70,6 +70,7 @@ body {
 header {
     background-color: var(--midnight-blue);
     color: var(--soft-white);
+    text-align: center;
 }
 
 header img {
@@ -77,9 +78,17 @@ header img {
     margin: auto;
 }
 
+h1 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
 nav {
     background-color: var(--champagne-gold);
     color: var(--midnight-blue);
+    display: flex;
+    justify-content: center;
+    gap: 50px;
 }
 
 footer {
