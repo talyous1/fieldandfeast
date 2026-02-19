@@ -72,6 +72,11 @@ header {
     color: var(--soft-white);
 }
 
+header img {
+    display: block;
+    margin: auto;
+}
+
 nav {
     background-color: var(--champagne-gold);
     color: var(--midnight-blue);
