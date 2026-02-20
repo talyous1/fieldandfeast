@@ -161,7 +161,7 @@ ul {
 }
 
 .gallery {
-    margin: 10px 0;
+    margin: 10px 0 15px 0;
     border-radius: 10px;
     box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
 }
@@ -171,7 +171,11 @@ ul {
     border-top-left-radius: 10px;
 }
 
-.gallery p {}
+.gallery p {
+    text-align: center;
+    font-style: italic;
+    padding: 10px 0;
+}
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
