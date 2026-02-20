@@ -208,6 +208,10 @@ footer a {
 }
 /* MEDIA QUERY (medium) */
 @media (min-width: 600px) {
+    main {
+        margin: 0 25px;
+    }
+    
     h1 {
         font-size: 4rem;
     }
@@ -235,10 +239,16 @@ footer a {
         grid-template-rows: auto auto;
         gap: 15px;
         margin-top: 20px;
+        margin-bottom: 30px;
     }
 
     #offerings div:nth-child(3) {
         grid-column: span 2;
+    }
+
+    h3 {
+        font-size: 1.8rem;
+        line-height: 40px;
     }
 
 }
