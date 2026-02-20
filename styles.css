@@ -170,7 +170,7 @@ ul {
 
 .gallery img {
     border-top-left-radius: 10px;
-    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
 }
 
 .gallery p {
@@ -251,6 +251,17 @@ footer a {
         line-height: 40px;
     }
 
+    .gallery {
+        margin: 0;
+
+    }
+
+    #gallery {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto auto;
+        gap: 20px;
+    }
 }
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
