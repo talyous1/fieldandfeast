@@ -115,6 +115,7 @@ main h2 {
     padding: 30px 0 10px 0;
     font-size: 1.4rem;
     color: var(--midnight-blue);
+    font-weight: 500;
 }
 
 main p {
@@ -148,6 +149,16 @@ h3 {
     padding: 10px 0 5px 0;
 }
 
+hr {
+    border: 1px solid var(--champagne-gold);
+}
+
+ul {
+    line-height: 25px;
+    font-size: .9rem;
+    list-style-type: disc;
+    list-style-position: inside;
+}
 
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
