@@ -140,6 +140,12 @@ footer {
     color: var(--soft-white);
 }
 
+h3 {
+    font-size: 1.2rem;
+    font-weight: bold;
+    padding: 10px 0 5px 0;
+}
+
 
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
