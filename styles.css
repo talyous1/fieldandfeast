@@ -107,6 +107,22 @@ nav a {
 
 }
 
+main {
+    margin: 0 20px;
+}
+
+main h2 {
+    padding: 30px 0 10px 0;
+    font-size: 1.4rem;
+    color: var(--midnight-blue);
+}
+
+main p {
+    line-height: 25px;
+    color: var(--dark-charcoal);
+    font-size: .9rem;
+}
+
 footer {
     background-color: var(--midnight-blue);
     color: var(--soft-white);
