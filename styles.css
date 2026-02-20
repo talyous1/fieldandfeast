@@ -207,5 +207,12 @@ footer a {
     font-weight: bold;
 }
 /* MEDIA QUERY (medium) */
+@media (min-width: 600px) {
+    h1 {
+        font-size: 4rem;
+    }
+    
+
+}
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
