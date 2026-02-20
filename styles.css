@@ -160,6 +160,18 @@ ul {
     list-style-position: inside;
 }
 
+.gallery {
+    margin: 10px 0;
+    border-radius: 10px;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.15);
+}
+
+.gallery img {
+    border-top-left-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.gallery p {}
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
