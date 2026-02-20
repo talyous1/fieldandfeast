@@ -128,6 +128,19 @@ footer {
     color: var(--soft-white);
 }
 
+.offering {
+    background-color: var(--olive-green);
+    color: var(--soft-white);
+    border-radius: 10px;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+.offering p {
+    color: var(--soft-white);
+}
+
+
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
