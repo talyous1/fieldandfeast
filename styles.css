@@ -65,6 +65,7 @@ table {
 body {
     font-family: 'Playfair Display';
     background-color: var(--soft-white);
+    font-weight: 500;
 }
 
 header {
@@ -275,8 +276,14 @@ footer a {
     }
 
     .gallery img {
-        height: 250px;
+        height: 180px;
+        object-fit: cover;
     }
 }
 /* MEDIA QUERY (large) */
+@media (min-width: 900px) {
+    nav {
+        gap: 200px;
+    }
+}
 /* MEDIA QUERY (xl) */
