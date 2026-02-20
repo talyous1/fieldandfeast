@@ -189,6 +189,22 @@ main a {
     font-weight: bold;
     margin-bottom: 20px;
 }
+
+footer {
+    text-align: center;
+    line-height: 25px;
+    padding: 80px 0 25px 0;
+}
+
+footer a {
+    color: var(--soft-white);
+    text-decoration: none;
+}
+
+#link {
+    color: var(--champagne-gold);
+    font-weight: bold;
+}
 /* MEDIA QUERY (medium) */
 /* MEDIA QUERY (large) */
 /* MEDIA QUERY (xl) */
