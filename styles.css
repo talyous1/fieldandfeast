@@ -261,6 +261,21 @@ footer a {
         grid-template-columns: auto auto;
         grid-template-rows: auto auto auto;
         gap: 20px;
+        margin-top: 10px;
+        margin-bottom: 20px;
+    }
+
+    main a {
+        padding: 15px 0;
+    }
+
+    .gallery p {
+        margin: auto;
+        max-width: 80%;
+    }
+
+    .gallery img {
+        height: 250px;
     }
 }
 /* MEDIA QUERY (large) */
