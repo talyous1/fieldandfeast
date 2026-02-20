@@ -96,7 +96,7 @@ nav {
     color: var(--midnight-blue);
     display: flex;
     justify-content: center;
-    gap: 50px;
+    gap: 70px;
     padding: 10px 0;
     margin-bottom: 20px;
 }
@@ -141,6 +141,7 @@ footer {
 
 .offering p {
     color: var(--soft-white);
+    padding-bottom: 0;
 }
 
 h3 {
