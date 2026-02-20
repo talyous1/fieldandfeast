@@ -121,6 +121,7 @@ main p {
     line-height: 25px;
     color: var(--dark-charcoal);
     font-size: .9rem;
+    padding-bottom: 10px;
 }
 
 footer {
