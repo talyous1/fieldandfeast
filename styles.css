@@ -212,6 +212,33 @@ footer a {
         font-size: 4rem;
     }
     
+    header p {
+        font-size: 1.2rem;
+        padding-bottom: 30px;
+    }
+
+    nav {
+        font-size: 1.5rem;
+    }
+
+    main h2 {
+        font-size: 1.7rem;
+    }
+
+    .offering {
+        margin: 0;
+    }
+
+    #offerings {
+        display: grid;
+        grid-template-columns: auto auto;
+        grid-template-rows: auto auto;
+        gap: 20px;
+    }
+
+    #offerings div:nth-child(3) {
+        grid-column: span 2;
+    }
 
 }
 /* MEDIA QUERY (large) */
