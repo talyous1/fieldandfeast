@@ -205,7 +205,7 @@ footer a {
     text-decoration: none;
 }
 
-#link {
+.link {
     color: var(--champagne-gold);
     font-weight: bold;
 }
